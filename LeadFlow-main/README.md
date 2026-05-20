@@ -1,6 +1,5 @@
 # Mini CRM – Full Stack MERN Application
 
-A **Mini Customer Relationship Management (CRM)** system built as part of the **Dev Innovations Labs Full Stack Developer Assignment**.  
 This project demonstrates backend, frontend, database, and integration expertise using the **MERN stack**.
 
 ---
