@@ -9,9 +9,6 @@ This project demonstrates backend, frontend, database, and integration expertise
 - **Frontend (Vercel)**: [https://lead-flow-theta.vercel.app/](https://lead-flow-theta.vercel.app/)  
 - **Backend API (AWS)**: [https://leadflow-backend.publicvm.com](https://leadflow-backend.publicvm.com/)  
 
-🔑 **Test Credentials**  
-**Email**: `yash@pandav.com`
-**Password**: `Yashpandav2006@`
 
 
 ## 📸 Project Preview
